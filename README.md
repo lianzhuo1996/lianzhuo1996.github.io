@@ -8,9 +8,9 @@
 
 ## Short Bio
 
-Lian Zhuo received his B.S. and M.S. degrees at the School of Automation Science 
-and Electrical Engineering, Beihang University (BUAA), PR.China, 2018 and 2021 respectively. 
-His research interests include pattern recognition, computer vision.
+Lian Zhuo is currently a master student in Beihang University (BUAA). He received his B.S. degrees at the School of Automation Science 
+and Electrical Engineering, Beihang University (BUAA), 2018. 
+His research interests include deep learning, computer vision.
 
 ## Publication
 
