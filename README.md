@@ -1,6 +1,4 @@
-## Welcome to GitHub Pages
-
-### Li'an Zhuo 卓力安
+## Li'an Zhuo 卓力安
 #### Master
 #### Beihang University
 #### lianzhuo@buaa.edu.cn
